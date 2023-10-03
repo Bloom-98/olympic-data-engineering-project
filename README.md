@@ -4,7 +4,8 @@ I have created an Azure Cloud Data Engineering Project using the Tokyo Olympics 
 
 ## Architecture Diagram
 
-![Azure Architecture Diagram drawio](https://github.com/Bloom-98/olympic-data-engineering-project/assets/93408790/8fab6c59-4610-4774-8246-c91b7fa70a74)
+![Azure Diagram drawio](https://github.com/Bloom-98/olympic-data-engineering-project/assets/93408790/42aac7a4-01fa-4278-818a-f00dffaa4f57)
+
 
 
 
