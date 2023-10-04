@@ -1,6 +1,6 @@
 # Tokyo-Olympics-Azure-Data-Engineering-Project
 
-I have created an Azure Cloud Data Engineering Project to analyze the Tokyo Olympics Dataset which includes creating ETL pipelines, sparck transformations and much more.
+I have created an Azure Cloud Data Engineering Project to analyze the Tokyo Olympics Dataset which includes creating ETL pipelines, transformation through spark and much more.
 
 ## Architecture Diagram
 
