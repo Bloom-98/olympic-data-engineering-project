@@ -67,7 +67,7 @@ Code available at - [Synapse Analytics](https://github.com/Bloom-98/olympic-data
 
 ## Power BI
 
-Created an interactive dashboard with data from Datawarehouse in Azure Synapse Analytics. 
+Created an interactive dashboard with importing data from Datawarehouse in Azure Synapse Analytics, analyzed the Tokyo Olympics data using various vizualizations(bar chart, column chart, map, donut chart, etc. 
 
 ![image](https://github.com/pakhijo/olympic-data-engineering-project/assets/93408790/9275d71e-70e8-4e7a-9bdc-802dae6a99ac)
 
