@@ -4,7 +4,8 @@ I have created an Azure Cloud Data Engineering Project using the Tokyo Olympics 
 
 ## Architecture Diagram
 
-![Azure Diagram drawio](https://github.com/Bloom-98/olympic-data-engineering-project/assets/93408790/42aac7a4-01fa-4278-818a-f00dffaa4f57)
+![Azure Architecture Diagram drawio](https://github.com/pakhijo/olympic-data-engineering-project/assets/93408790/f2a0dabb-ebd5-41b3-9d6c-bf462e6fa235)
+
 
 
 
@@ -63,3 +64,11 @@ Azure Synapse Analytics provides data warehousing feature, executed SQL queries 
 Code available at - [Synapse Analytics](https://github.com/Bloom-98/olympic-data-engineering-project/tree/main/Synapse%20Analytics)
 
 
+
+## Power BI
+
+Created an interactive dashboard with data from Datawarehouse in Azure Synapse Analytics. 
+
+![image](https://github.com/pakhijo/olympic-data-engineering-project/assets/93408790/9275d71e-70e8-4e7a-9bdc-802dae6a99ac)
+
+PBIX file available at - Power BI
