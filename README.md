@@ -1,6 +1,6 @@
 # Tokyo-Olympics-Azure-Data-Engineering-Project
 
-I have created an Azure Cloud Data Engineering Project using the Tokyo Olympics Dataset.
+I have created an Azure Cloud Data Engineering Project to analyze the Tokyo Olympics Dataset which includes creating ETL pipelines, sparck transformations and much more.
 
 ## Architecture Diagram
 
@@ -71,4 +71,4 @@ Created an interactive dashboard with importing data from Datawarehouse in Azure
 
 ![image](https://github.com/pakhijo/olympic-data-engineering-project/assets/93408790/9275d71e-70e8-4e7a-9bdc-802dae6a99ac)
 
-PBIX file available at - Power BI
+PBIX file available at - [Power BI](https://github.com/pakhijo/olympic-data-engineering-project/tree/main/Power%20BI)
